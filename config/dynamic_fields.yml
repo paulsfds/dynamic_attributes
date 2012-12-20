@@ -1,0 +1,6 @@
+starcraft2:
+   attributes:
+      regions:
+         name: regions
+      leagues:
+         name: leagues
